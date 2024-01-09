@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\webrtc",
+    "\\webrtc\\src",
+    "\\webrtc\\src\\main\\java",
+    "\\webrtc\\src\\test",
+    "\\webrtc\\src\\test\\java",
+    "\\webrtc\\src\\test\\java\\dev",
+    "\\webrtc\\src\\test\\java\\dev\\onvoid",
+    "\\webrtc\\src\\test\\java\\dev\\onvoid\\webrtc",
+    "\\webrtc\\src\\test\\java\\dev\\onvoid\\webrtc\\logging"
+  ],
+  "SelectedNode": "\\webrtc\\src\\test\\java\\dev\\onvoid\\webrtc\\TestSetDescObserver.java",
+  "PreviewInSolutionExplorer": false
+}
